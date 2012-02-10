@@ -1,3 +1,5 @@
+# These are my starter files for Business Catalyst builds. Based heavily on the HTML5 Boilerplate, there are a number of edits to deal with various Business Catalyst bugs.
+
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template that helps you build fast, robust, adaptable, and future-proof websites. Spend more time developing and less time reinventing the wheel.
